@@ -124,7 +124,7 @@ as the primary performance bottleneck for sustained edge LLM inference.
 
 This project is accompanied by an IEEE-format research paper:
 
-> M. Al Juboori, M. Almazrouei, T. Almazrouei, B. Mokhtar,
+> M. Al Juboori, M. Almazrouei, B. Mokhtar
 > *"TinyTraffic: Edge-Deployed Language Model Inference for Near Real-Time
 > Traffic Summarization on Resource-Constrained Hardware,"*
 > UAEU CENG 440, 2025.
