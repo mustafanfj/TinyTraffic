@@ -69,11 +69,13 @@ ollama pull qwen2.5:0.5b
 
 ## Configuration
 
-Open `display_server.py` and set your TomTom API key:
+Open `display_server.py` (and `final_app.py` for the terminal version) and set your TomTom API key:
 
 ```python
 TOMTOM_API_KEY = "YOUR_API_KEY_HERE"
 ```
+
+Never commit a real key.
 
 The default bounding box targets Mohammed Bin Zayed Road, Abu Dhabi:
 ```python
@@ -139,8 +141,8 @@ TinyTraffic/
 ├── display_server.py     # Flask dashboard server
 ├── benchmark_v3.py       # 30-run latency/thermal benchmark
 ├── requirements.txt      # Python dependencies
-└── results/
-    └── benchmark_results.json   # Raw benchmark output
+└── results/              # Created by benchmark_v3.py
+    └── benchmark_results.json
 ```
 
 ---
