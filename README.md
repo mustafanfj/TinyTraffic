@@ -1,6 +1,14 @@
-# TinyTraffic 🚦
+# TinyTraffic
 
 **Edge-Deployed Language Model Inference for Near Real-Time Traffic Summarization on Resource-Constrained Hardware**
+
+<p>
+<img src="https://img.shields.io/badge/hardware-Raspberry%20Pi%204-0B6A66?style=flat-square&logo=raspberrypi&logoColor=white" alt="hardware: Raspberry Pi 4">
+<img src="https://img.shields.io/badge/model-Qwen2.5--0.5B%20%C2%B7%20INT4-0B6A66?style=flat-square" alt="model: Qwen2.5-0.5B · INT4">
+<img src="https://img.shields.io/badge/runtime-Ollama-0B6A66?style=flat-square" alt="runtime: Ollama">
+<img src="https://img.shields.io/badge/python-3.11%2B-0B6A66?style=flat-square&logo=python&logoColor=white" alt="python: 3.11+">
+<a href="https://mustafanfj.github.io"><img src="https://img.shields.io/badge/author-Mustafa%20Al%20Juboori-17202A?style=flat-square" alt="author: Mustafa Al Juboori"></a>
+</p>
 
 > UAEU CENG 440 Final Project | Department of Computer and Network Engineering, College of Information Technology, United Arab Emirates University
 
